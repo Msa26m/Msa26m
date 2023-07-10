@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Msa26m
-- 👀 I’m interested in ...c++
+- 👀 I’m interested in ...C++& Python
 - 🌱 I’m currently learning ...Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...instagram:msa._0
